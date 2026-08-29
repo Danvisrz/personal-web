@@ -5,7 +5,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true, 
   },
-  basePath: "/personal-web", // <-- TAMBAHKAN BARIS INI
+  basePath: "/personal-web",
+  assetPrefix: "/personal-web",
 };
 
 export default nextConfig;
