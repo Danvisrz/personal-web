@@ -9,11 +9,11 @@ export default function Home() {
     {
       id: "01",
       category: "Web Application",
-      title: "Klasifikasi Tingkat Kematangan Tomat",
+      title: "Classification of Tomato Ripeness Levels",
       techStack: "Python, TensorFlow, Kaggle, Gradio",
       image: "/project-1.png",
       link: "https://colab.research.google.com/drive/1KFUFKVBmGyf9Ep4iklbAey7Bsxv5K_6E?usp=sharing",
-      description: "Project ini saya lakukan dengan tujuan untuk mengeksplorasi Computer Vision khususnya dengan VGG16. Dimulai dari pencarian dataset tomat menggunakan kaggle, melakukan tuning, menghitung metrik akurasi model, dan pengujian dengan interface Gradio.",
+      description: "I undertook this project with the goal of exploring computer vision, specifically using VGG16. I began by searching for a tomato dataset on Kaggle, then performed model tuning, calculated the model’s accuracy metrics, and conducted testing using the Gradio interface.",
     },
     {
       id: "02",
@@ -22,7 +22,7 @@ export default function Home() {
       techStack: "React JS, Tailwind CSS, Supabase, Paypal API, Midtrans API, Resend API",
       image: "/project-2.png",
       link: "https://github.com/Danvisrz",
-      description: "Website ini saya buat untuk memenuhi kebutuhan klien saya, dimana klien meminta untuk dibuatkan website e-commerce untuk produk fashionnya. Di project ini, saya mendapatkan pengetahuan mengenai cara membuat website menggunakan next.js (react), mengelola database, serta mengaplikasikan payment gateway (Midtrans) dan Automation (Resend).",
+      description: "I created this website to meet my client's needs, where they requested an e-commerce website for their fashion products. In this project, I gained knowledge about creating websites using next.js (react), managing databases, and implementing payment gateways (Midtrans) and automation (Resend).",
     },
     {
       id: "03",
@@ -31,7 +31,7 @@ export default function Home() {
       techStack: "MySQL Workbench, Python, Tkinter",
       image: "/project-3.png",
       link: "https://github.com/Danvisrz",
-      description: "Aplikasi ini saya rancang untuk keperluan Ujian Akhir Semester dari mata perkuliahan Struktur Data dan Algoritma. Project ini mengimplementasikan penggunaan Basis Data, Double Linked List, etc.",
+      description: "I designed this application for the purpose of the Final Semester Exam in the Data Structures and Algorithms course. This project implements the use of Database, Double Linked List, etc.",
     },
     {
       id: "04",
@@ -40,7 +40,7 @@ export default function Home() {
       techStack: "HTML, CSS, JavaScript",
       image: "/project-4.png",
       link: "https://github.com/Danvisrz",
-      description: "Project ini saya lakukan saat mengikuti RevoU coding camp selama seminggu. To Do List ini memberikan saya pengetahuan tentang HTML, CSS, JavaScript front-end dan UI/UX.",
+      description: "I undertook this project while attending the RevoU coding camp for a week. This To Do List project provided me with knowledge about HTML, CSS, JavaScript front-end and UI/UX.",
     },
   ];
 
