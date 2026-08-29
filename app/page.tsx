@@ -11,7 +11,7 @@ export default function Home() {
       category: "Web Application",
       title: "Classification of Tomato Ripeness Levels",
       techStack: "Python, TensorFlow, Kaggle, Gradio",
-      image: "/project-1.png",
+      image: "/personal-web/project-1.png",
       link: "https://colab.research.google.com/drive/1KFUFKVBmGyf9Ep4iklbAey7Bsxv5K_6E?usp=sharing",
       description: "I undertook this project with the goal of exploring computer vision, specifically using VGG16. I began by searching for a tomato dataset on Kaggle, then performed model tuning, calculated the model’s accuracy metrics, and conducted testing using the Gradio interface.",
     },
@@ -20,7 +20,7 @@ export default function Home() {
       category: "Web Application",
       title: "Rodeches Website",
       techStack: "React JS, Tailwind CSS, Supabase, Paypal API, Midtrans API, Resend API",
-      image: "/project-2.png",
+      image: "/personal-web/project-2.png",
       link: "https://github.com/Danvisrz",
       description: "I created this website to meet my client's needs, where they requested an e-commerce website for their fashion products. In this project, I gained knowledge about creating websites using next.js (react), managing databases, and implementing payment gateways (Midtrans) and automation (Resend).",
     },
@@ -29,7 +29,7 @@ export default function Home() {
       category: "Local Application",
       title: "Local-Playlist Song",
       techStack: "MySQL Workbench, Python, Tkinter",
-      image: "/project-3.png",
+      image: "/personal-web/project-3.png",
       link: "https://github.com/Danvisrz",
       description: "I designed this application for the purpose of the Final Semester Exam in the Data Structures and Algorithms course. This project implements the use of Database, Double Linked List, etc.",
     },
@@ -38,7 +38,7 @@ export default function Home() {
       category: "Web Application",
       title: "Interactive To Do List",
       techStack: "HTML, CSS, JavaScript",
-      image: "/project-4.png",
+      image: "/personal-web/project-4.png",
       link: "https://github.com/Danvisrz",
       description: "I undertook this project while attending the RevoU coding camp for a week. This To Do List project provided me with knowledge about HTML, CSS, JavaScript front-end and UI/UX.",
     },
@@ -77,7 +77,7 @@ export default function Home() {
           className="w-auto flex justify-end items-end h-full relative z-20"
         >
           <Image
-            src="/profiles.png" 
+            src="/personal-web/profiles.png" 
             alt="Danvi Almasrazqi"
             width={550} 
             height={800}
@@ -158,7 +158,7 @@ export default function Home() {
             >
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-blue-600/15 rounded-full blur-[60px] -z-10 pointer-events-none"></div>
               <Image
-                src="/about.png" 
+                src="/personal-web/about.png" 
                 alt="Danvi About"
                 width={500}
                 height={700}
