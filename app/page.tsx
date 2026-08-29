@@ -55,7 +55,7 @@ export default function Home() {
         className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-8 py-6 bg-black/50 backdrop-blur-md border-b border-white/5"
       >
         <span className="font-bold tracking-widest text-sm text-gray-200 uppercase">
-          Danvi Almasrazqi
+          Danvi's Personal Web
         </span>
         <div className="flex items-center gap-8 text-sm font-medium text-gray-400">
           <a href="#about" className="hover:text-white font-black transition-colors">About</a>
